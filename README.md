@@ -1,2 +1,1 @@
-# Quizlet-Match-Hack
-Simple code to get &lt;1 second on Quizlet Match!
+𝐌𝐨𝐬𝐭 𝐫𝐞𝐜𝐞𝐧𝐭𝐥𝐲 𝐮𝐩𝐝𝐚𝐭𝐞𝐝 𝐡𝐚𝐜𝐤 𝐭𝐨 𝐠𝐞𝐭 𝐚𝐬 𝐥𝐢𝐭𝐭𝐥𝐞 𝐚𝐬 𝟎.𝟓 𝐬𝐞𝐜𝐨𝐧𝐝𝐬 𝐨𝐧 𝐐𝐮𝐢𝐳𝐥𝐞𝐭 𝐌𝐚𝐭𝐜𝐡!!!
